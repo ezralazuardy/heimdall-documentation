@@ -1,0 +1,122 @@
+{
+  "version-0.0.1/someSidebar": [
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Quickstart",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-0.0.1/introduction"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/terminology"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/requirements"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/installation"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/grant-types"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/entities"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/repositories"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/implementation"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/database-setup"
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Heimdall Grant Types",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-0.0.1/client-credentials-grant"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/password-grant"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/auth-code-grant"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/implicit-grant"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/refresh-token-grant"
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Heimdall Core",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-0.0.1/config-builder"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/grant-type-builder"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/server-builder"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/authorization-server"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/resource-server"
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Heimdall Extensions",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-0.0.1/oidc"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/pkce"
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Heimdall Demo",
+      "items": []
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 module.exports = {
 	someSidebar: {
-		"Quickstart": [
+		'Quickstart': [
 			'introduction',
 			'terminology',
 			'requirements',
@@ -11,25 +11,25 @@ module.exports = {
 			'implementation',
 			'database-setup',
 		],
-		"Heimdall Grant Types": [
+		'Heimdall Grant Types': [
 			'client-credentials-grant',
 			'password-grant',
 			'auth-code-grant',
 			'implicit-grant',
 			'refresh-token-grant',
 		],
-		"Heimdall Core": [
+		'Heimdall Core': [
 			'config-builder',
 			'grant-type-builder',
 			'server-builder',
 			'authorization-server',
 			'resource-server',
 		],
-		"Heimdall Extensions": [
+		'Heimdall Extensions': [
 			'oidc',
 			'pkce'
 		],
-		"Heimdall Demo": [
+		'Heimdall Demo': [
 
 		],
 	},
