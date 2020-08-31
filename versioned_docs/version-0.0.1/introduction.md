@@ -67,6 +67,14 @@ The following RFC's are implemented in this library:
 
 ---
 
+## Latest Version
+
+See the latest released Heimdall version [here](https://github.com/ezralazuardy/heimdall/releases).
+
+<a href="https://github.com/ezralazuardy/heimdall/releases"><img src="https://img.shields.io/github/v/release/ezralazuardy/heimdall" alt="release" target="_blank" rel="noopener noreferrer" /></a>
+
+---
+
 ## Support
 
 Please ask questions on the [Heimdall GitHub issues](https://github.com/ezralazuardy/heimdall/issues) page.
