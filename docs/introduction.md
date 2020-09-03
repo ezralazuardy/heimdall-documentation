@@ -1,5 +1,4 @@
 ---
-id: introduction
 slug: /
 title: Introduction
 ---
