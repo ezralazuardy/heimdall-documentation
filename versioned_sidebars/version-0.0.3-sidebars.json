@@ -1,5 +1,5 @@
 {
-  "version-0.0.1/someSidebar": [
+  "version-0.0.3/someSidebar": [
     {
       "collapsed": true,
       "type": "category",
@@ -7,39 +7,39 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-0.0.1/introduction"
+          "id": "version-0.0.3/introduction"
         },
         {
           "type": "doc",
-          "id": "version-0.0.1/terminology"
+          "id": "version-0.0.3/terminology"
         },
         {
           "type": "doc",
-          "id": "version-0.0.1/requirements"
+          "id": "version-0.0.3/requirements"
         },
         {
           "type": "doc",
-          "id": "version-0.0.1/installation"
+          "id": "version-0.0.3/installation"
         },
         {
           "type": "doc",
-          "id": "version-0.0.1/grant-types"
+          "id": "version-0.0.3/grant-types"
         },
         {
           "type": "doc",
-          "id": "version-0.0.1/entities"
+          "id": "version-0.0.3/entities"
         },
         {
           "type": "doc",
-          "id": "version-0.0.1/repositories"
+          "id": "version-0.0.3/repositories"
         },
         {
           "type": "doc",
-          "id": "version-0.0.1/implementation"
+          "id": "version-0.0.3/implementation"
         },
         {
           "type": "doc",
-          "id": "version-0.0.1/database-setup"
+          "id": "version-0.0.3/database-setup"
         }
       ]
     },
@@ -50,23 +50,23 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-0.0.1/client-credentials-grant"
+          "id": "version-0.0.3/client-credentials-grant"
         },
         {
           "type": "doc",
-          "id": "version-0.0.1/password-grant"
+          "id": "version-0.0.3/password-grant"
         },
         {
           "type": "doc",
-          "id": "version-0.0.1/auth-code-grant"
+          "id": "version-0.0.3/auth-code-grant"
         },
         {
           "type": "doc",
-          "id": "version-0.0.1/implicit-grant"
+          "id": "version-0.0.3/implicit-grant"
         },
         {
           "type": "doc",
-          "id": "version-0.0.1/refresh-token-grant"
+          "id": "version-0.0.3/refresh-token-grant"
         }
       ]
     },
@@ -77,23 +77,23 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-0.0.1/config-builder"
+          "id": "version-0.0.3/config-builder"
         },
         {
           "type": "doc",
-          "id": "version-0.0.1/grant-type-builder"
+          "id": "version-0.0.3/grant-type-builder"
         },
         {
           "type": "doc",
-          "id": "version-0.0.1/server-builder"
+          "id": "version-0.0.3/server-builder"
         },
         {
           "type": "doc",
-          "id": "version-0.0.1/authorization-server"
+          "id": "version-0.0.3/authorization-server"
         },
         {
           "type": "doc",
-          "id": "version-0.0.1/resource-server"
+          "id": "version-0.0.3/resource-server"
         }
       ]
     },
@@ -104,11 +104,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-0.0.1/oidc"
+          "id": "version-0.0.3/oidc"
         },
         {
           "type": "doc",
-          "id": "version-0.0.1/pkce"
+          "id": "version-0.0.3/pkce"
         }
       ]
     },
